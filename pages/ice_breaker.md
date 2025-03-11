@@ -13,7 +13,7 @@
 layout: cover
 ---
 
-## What is your favourite IDE?
+## Coding with Copilot - curse or blessing?
 
 
 

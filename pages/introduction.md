@@ -1,6 +1,6 @@
-## Fourth Meeting
+## Fifth Meeting
 
-- New C++ User Group
+- ~~New~~ C++ User Group
   - New York
   - Buenos Aires
   - Singapore
@@ -23,6 +23,6 @@
 
 <img src="/qr_user_group.png" alt="qr_user_group" class="h-70"/>
 
-[https://github.com/C-User-Group-Fankfurt](https://github.com/C-User-Group-Fankfurt)
+[https://github.com/cpp-User-Group-Frankfurt](https://github.com/cpp-User-Group-Frankfurt)
 
 
