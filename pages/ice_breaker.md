@@ -13,10 +13,4 @@
 layout: cover
 ---
 
-## Coding with Copilot - curse or blessing?
-
-
-
-
-
-
+## Do you prefer strict test-driven development, or is it okay to write tests after coding?

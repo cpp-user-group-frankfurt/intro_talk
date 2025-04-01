@@ -20,7 +20,7 @@ contact us via meetup - [https://www.meetup.com/cpp-user-group-frankfurt/](https
 
 <img src="/qr_user_group.png" alt="qr_user_group" class="h-70"/>
 
-[https://github.com/C-User-Group-Fankfurt](https://github.com/C-User-Group-Fankfurt)
+[https://github.com/cpp-User-Group-Frankfurt](https://github.com/cpp-User-Group-Frankfurt)
 
 
 
